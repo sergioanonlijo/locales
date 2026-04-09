@@ -406,8 +406,8 @@
       <multiple>notas</multiple>
     </term>
     <term name="number">
-      <single>number</single>
-      <multiple>numbers</multiple>
+      <single>número</single>
+      <multiple>números</multiple>
     </term>
     <term name="number-of-pages">
       <single>página</single>
@@ -440,8 +440,8 @@
     <term name="edition" form="short">ed.</term>
     <term name="first-reference-note-number" form="short">n.</term>
     <term name="number" form="short">
-      <single>no.</single>
-      <multiple>nos.</multiple>
+      <single>n.º</single>
+      <multiple>n.º</multiple>
     </term>
     <term name="number-of-pages" form="short">
       <single>p.</single>
@@ -471,8 +471,8 @@
       <multiple>eds.</multiple>
     </term>
     <term name="compiler">
-      <single>compiler</single>
-      <multiple>compilers</multiple>
+      <single>compilador</single>
+      <multiple>compiladores</multiple>
     </term>
     <term name="composer"/> <!-- generally blank -->
     <term name="container-author"/> <!-- generally blank -->
@@ -626,7 +626,7 @@
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">chaired by</term>
     <term name="collection-editor" form="verb">edited by</term>
-    <term name="compiler" form="verb">compiled by</term>
+    <term name="compiler" form="verb">compilado por</term>
     <term name="container-author" form="verb">de</term>
     <term name="contributor" form="verb">with</term>
     <term name="curator" form="verb">curated by</term>
